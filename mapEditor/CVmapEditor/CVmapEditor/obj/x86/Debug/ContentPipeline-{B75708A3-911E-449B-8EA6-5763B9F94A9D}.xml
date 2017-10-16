@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mapback.png</Source>
+      <Name>mapback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\mapback.xnb</Output>
+      <Time>2017-04-11T18:24:54.1488322+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI_mouse_status.png</Source>
+      <Name>UI_mouse_status</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\UI_mouse_status.xnb</Output>
+      <Time>2017-04-11T18:04:38.4287717+08:00</Time>
+    </Item>
+    <Item>
+      <Source>tile.png</Source>
+      <Name>tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\tile.xnb</Output>
+      <Time>2017-08-10T23:06:07.4240474+08:00</Time>
+    </Item>
+    <Item>
+      <Source>backright.png</Source>
+      <Name>backright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\backright.xnb</Output>
+      <Time>2017-08-10T22:37:56.0973565+08:00</Time>
+    </Item>
+    <Item>
+      <Source>selecting.png</Source>
+      <Name>selecting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\selecting.xnb</Output>
+      <Time>2017-08-10T21:50:20.6351142+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI6.spritefont</Source>
+      <Name>UI6</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\UI6.xnb</Output>
+      <Time>2017-08-10T22:35:44.2602274+08:00</Time>
+    </Item>
+    <Item>
+      <Source>standdeco.png</Source>
+      <Name>standdeco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\standdeco.xnb</Output>
+      <Time>2017-04-12T11:25:25.5560555+08:00</Time>
+    </Item>
+    <Item>
+      <Source>tileborder.png</Source>
+      <Name>tileborder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\tileborder.xnb</Output>
+      <Time>2017-04-12T11:35:37.8888434+08:00</Time>
+    </Item>
+    <Item>
+      <Source>save.png</Source>
+      <Name>save</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\save.xnb</Output>
+      <Time>2017-04-12T13:20:26.0237447+08:00</Time>
+    </Item>
+    <Item>
+      <Source>collide.png</Source>
+      <Name>collide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\collide.xnb</Output>
+      <Time>2017-07-10T20:26:36.9968689+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Terrains\1.png</Source>
+      <Name>Decorats\Terrains\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Terrains\1.xnb</Output>
+      <Time>2017-08-09T21:23:04.1801333+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Objects\1.png</Source>
+      <Name>Decorats\Objects\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Objects\1.xnb</Output>
+      <Time>2017-09-06T18:41:48.6469199+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Terrains\2.png</Source>
+      <Name>Decorats\Terrains\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Terrains\2.xnb</Output>
+      <Time>2017-08-04T12:33:30.7869523+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Decorats\1.png</Source>
+      <Name>Decorats\Decorats\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Decorats\1.xnb</Output>
+      <Time>2017-08-09T22:48:54.6562889+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Terrains\4.png</Source>
+      <Name>Decorats\Terrains\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Terrains\4.xnb</Output>
+      <Time>2017-08-17T15:41:09.593314+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\4.png</Source>
+      <Name>Decorats\Buildings\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\4.xnb</Output>
+      <Time>2017-07-11T15:25:32.7666473+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\5.png</Source>
+      <Name>Decorats\Buildings\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\5.xnb</Output>
+      <Time>2017-07-11T15:14:20.5744769+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Decorats\2.png</Source>
+      <Name>Decorats\Decorats\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Decorats\2.xnb</Output>
+      <Time>2017-08-07T22:25:23.1808746+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\6.png</Source>
+      <Name>Decorats\Buildings\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\6.xnb</Output>
+      <Time>2017-07-11T09:24:32.7840661+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\7.png</Source>
+      <Name>Decorats\Buildings\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\7.xnb</Output>
+      <Time>2017-07-11T09:24:32.7880689+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\8.png</Source>
+      <Name>Decorats\Buildings\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\8.xnb</Output>
+      <Time>2017-07-11T09:24:32.7920718+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\9.png</Source>
+      <Name>Decorats\Buildings\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\9.xnb</Output>
+      <Time>2017-07-11T09:24:32.7960746+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\10.png</Source>
+      <Name>Decorats\Buildings\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\10.xnb</Output>
+      <Time>2017-07-11T09:24:32.7990765+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\11.png</Source>
+      <Name>Decorats\Buildings\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\11.xnb</Output>
+      <Time>2017-07-11T09:24:32.8030799+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\12.png</Source>
+      <Name>Decorats\Buildings\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\12.xnb</Output>
+      <Time>2017-07-11T09:24:32.8060817+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\13.png</Source>
+      <Name>Decorats\Buildings\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\13.xnb</Output>
+      <Time>2017-07-11T09:24:32.8090866+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\14.png</Source>
+      <Name>Decorats\Buildings\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\14.xnb</Output>
+      <Time>2017-07-11T09:24:32.8130864+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\15.png</Source>
+      <Name>Decorats\Buildings\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\15.xnb</Output>
+      <Time>2017-07-11T09:24:32.8160889+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\16.png</Source>
+      <Name>Decorats\Buildings\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\16.xnb</Output>
+      <Time>2017-07-11T09:24:32.8195978+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\17.png</Source>
+      <Name>Decorats\Buildings\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\17.xnb</Output>
+      <Time>2017-07-11T09:24:32.8231008+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\18.png</Source>
+      <Name>Decorats\Buildings\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\18.xnb</Output>
+      <Time>2017-07-11T09:24:32.8266025+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\19.png</Source>
+      <Name>Decorats\Buildings\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\19.xnb</Output>
+      <Time>2017-07-11T09:24:32.8296049+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\20.png</Source>
+      <Name>Decorats\Buildings\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\20.xnb</Output>
+      <Time>2017-07-11T09:24:32.8331079+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\21.png</Source>
+      <Name>Decorats\Buildings\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\21.xnb</Output>
+      <Time>2017-07-11T09:24:32.8367449+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\22.png</Source>
+      <Name>Decorats\Buildings\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\22.xnb</Output>
+      <Time>2017-07-11T09:24:32.8397467+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\23.png</Source>
+      <Name>Decorats\Buildings\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\23.xnb</Output>
+      <Time>2017-07-11T09:24:32.7490427+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\1.png</Source>
+      <Name>Decorats\Buildings\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\1.xnb</Output>
+      <Time>2017-07-11T15:06:32.5153791+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\2.png</Source>
+      <Name>Decorats\Buildings\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\2.xnb</Output>
+      <Time>2017-07-11T15:09:05.3974769+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Buildings\3.png</Source>
+      <Name>Decorats\Buildings\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Buildings\3.xnb</Output>
+      <Time>2017-07-11T15:10:58.344422+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\Terrains\3.png</Source>
+      <Name>Decorats\Terrains\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\Terrains\3.xnb</Output>
+      <Time>2017-07-12T14:58:01.972585+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Decorats\null.png</Source>
+      <Name>Decorats\null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\Decorats\null.xnb</Output>
+      <Time>2017-07-27T01:27:47.5669615+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2017-08-10T23:35:42.0500717+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B75708A3-911E-449B-8EA6-5763B9F94A9D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Farewell\documents\visual studio 2013\Projects\CVmapEditor\CVmapEditor\CVmapEditor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-01-08T23:33:03.9822734+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
